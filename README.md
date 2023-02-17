@@ -9,4 +9,10 @@
 
 > Strating a new journey with ***HTML*** and ***CSS***
 
+## INTRODUCTION
+
+>
+>> Refer the following for getting familiar with the order of the above files
+>
+>
 
