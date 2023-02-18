@@ -1,0 +1,5 @@
+starting any html file we will continueit with 
+
+<html>   thats our opening tag
+
+and end that file with an closing tag   </html>
