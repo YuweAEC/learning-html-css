@@ -1,3 +1,15 @@
 here we start our html journey
 
 <tag>content that we want to</tag>
+
+there are somes tags or html elements that are basics in html 
+
+html program will be started from the following style :-
+
+<1doctype>       - first documemt type 
+<html>           - every  html file starts wht this tag 
+<head></head>    - then we use to give a valid head according to our program and this tag contents are not visible in the main web pages
+<title></title>  - 
+<body></body>
+</html>
+
