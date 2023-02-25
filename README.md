@@ -14,7 +14,9 @@
 >
 >> Refer the following for getting familiar with the order of the above files
 >
->
+> - html-syntax.txt
+> - paragraph-sapn.txt
+> - button-list.txt
 
 ## AUTHORS
 
