@@ -17,6 +17,8 @@
 > - html-syntax.txt
 > - paragraph-sapn.txt
 > - button-list.txt
+> - heading-bold-italic.txt
+> - links-img.txt
 
 ## AUTHORS
 
