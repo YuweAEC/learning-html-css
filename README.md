@@ -23,6 +23,7 @@
 > - comments.txt
 > - css-html.txt
 > - css-syntax.txt
+> - developer-tools.txt
 > - 
 
 ## AUTHORS
