@@ -11,7 +11,9 @@
 
 ## INTRODUCTION
 
->
+**html - hyper text markup language**
+**css - cascading style sheets** >
+
 >> Refer the following for getting familiar with the order of the above files
 >
 > - environment-setup.txt
@@ -24,7 +26,8 @@
 > - css-html.txt
 > - css-syntax.txt
 > - developer-tools.txt
-> - tagselectors-attributes.txt 
+> - tagselectors-attributes.txt
+>
 
 ## AUTHORS
 
