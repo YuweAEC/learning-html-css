@@ -11,9 +11,10 @@
 
 ## INTRODUCTION
 
-**html - hyper text markup language**
-**css - cascading style sheets** >
+**HTML - hyper text markup language**
+**CSS - cascading style sheets** 
 
+>
 >> Refer the following for getting familiar with the order of the above files
 >
 > - environment-setup.txt
