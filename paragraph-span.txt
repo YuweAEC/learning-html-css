@@ -2,4 +2,10 @@ here we will see after paragraph and span tag or elements of html
 
 # paragraph
 
+<p>content</p>
+
 # span
+
+<span>content</span>
+
+
