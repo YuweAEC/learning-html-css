@@ -1,1 +1,4 @@
-comments in css 
+comments are the text thst include in our program or code for the users who will see that code to understand it
+comments are the text that are not get run be the program or computer
+
+it simple written as a form of text to oget familiar we our code ...
