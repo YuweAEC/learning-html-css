@@ -1,2 +1,5 @@
 here we will look after some units and colors in css 
 by the dev tools and by using them also
+
+there are some types of measruements that we use to measure any things
+the normal wat of measurements are cm mm m . but in css there are are some different units ...
