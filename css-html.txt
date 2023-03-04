@@ -1,2 +1,2 @@
 html refers to hyper text markup language  
-css refers to
+css refers to cascading styls sheets
