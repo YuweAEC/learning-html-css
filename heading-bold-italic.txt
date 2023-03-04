@@ -1,6 +1,12 @@
 
 # heading
+ 
+ to do bold the text we use 
 
 # bold
+ 
+ for making our text like a heading we use 
 
 # italic
+
+ for italic nature we use 
