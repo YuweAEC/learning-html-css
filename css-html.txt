@@ -1,2 +1,2 @@
-html refers to  
+html refers to hyper text markup language  
 css refers to
