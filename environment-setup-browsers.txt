@@ -1,5 +1,4 @@
-starting any html file we will continueit with 
+before we start any type of html or css codes to do .
+first we should setup an environment for it ,i.e, a well setup of writing the code and running it into thw browser or to view the result into the browser
 
-<html>   thats our opening tag
 
-and end that file with an closing tag   </html>
