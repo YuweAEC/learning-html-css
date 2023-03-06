@@ -1,3 +1,4 @@
 here we add styles and font to our css file
 
-css means cascading style sheets .... the name only define the use of css in desigening the web page or the website
+css means cascading style sheets .... the name only define the use of css in desigening the web page or the websites
+                                 .... and it also helps in customizing the web pages and websites or any other
