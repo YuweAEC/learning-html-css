@@ -1,4 +1,5 @@
 before we start any type of html or css codes to do .
-first we should setup an environment for it ,i.e, a well setup of writing the code and running it into thw browser or to view the result into the browser
+first we should setup an environment for it ,i.e, a well setup of writing the code and running it into the browser or to view the result into the browser
 
-
+we should setup the editor where will edi our code and all 
+then we will set the environments according to that very editor 
