@@ -30,6 +30,8 @@
 > - tagselectors-attributes.txt
 > - css-units-colors.txt
 > - css-style-font.txt
+
+Now get through this list then check all the files 
 ## AUTHORS
 
 - **Yuvraj Singh**
