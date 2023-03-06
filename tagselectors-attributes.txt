@@ -1,1 +1,4 @@
 tags selector in css 
+selectors are the elements that we use in web dev or any frontend dev ...
+
+ ..attributes are the class types in which we colaborate all the eselectors and use it within a program or code
