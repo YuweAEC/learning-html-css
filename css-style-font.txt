@@ -1,1 +1,3 @@
 here we add styles and font to our css file
+
+css means cascading style sheets .... the name only define the use of css in desigening the web page or the website
