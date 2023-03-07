@@ -27,7 +27,7 @@
 > - css-html.txt
 > - css-syntax.txt
 > - developer-tools.txt
-> - tagselectors-attributes.txt
+> - selectors-attributes.txt
 > - css-units-colors.txt
 > - css-style-font.txt
 
