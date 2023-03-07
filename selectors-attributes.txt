@@ -7,7 +7,8 @@ selectors are the elements that we use in web dev or any frontend dev ...
 
 here the given css code contains the selctors and declaration block too..
 
-  .. the element div is the selector tag
+  .. the element | div | is the selector tag
+  .. and the element | text align: rigth; | is the declaration block for the given css statement 
 
 
  ..attributes are the class types in which we colaborate all the eselectors and use it within a program or code
