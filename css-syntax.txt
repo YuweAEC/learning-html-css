@@ -6,4 +6,4 @@ Every css statement is made of selectors and  a declaration block .
  #what is declaration block 
  -> declaration block tells the browser that what styles are need to applied to the html
 
-
+refer to the file selectors-attributes.txt for more on selctors
