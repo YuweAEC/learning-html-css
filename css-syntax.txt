@@ -1,1 +1,3 @@
-syntax in css 
+Every css statement is made of selectors and  a declaration block .
+ #what is selector 
+ -> selector tell the browser that what html element we want to style
