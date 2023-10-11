@@ -8,4 +8,3 @@ here we will see after paragraph and span tag or elements of html
 
 <span>content</span>
 
-
